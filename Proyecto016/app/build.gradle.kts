@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.marce.proyecto016"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.marce.proyecto016"
