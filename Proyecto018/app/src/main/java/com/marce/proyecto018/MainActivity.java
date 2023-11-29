@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
             archivo.close();
             et2.setText(contenido);
         } catch (IOException e){
-            Toast.makeText(this, "no existe el archivo", Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this, "no existe el archivo", Toast.LENGTH_SHORT).show();
         }
     }
 }
