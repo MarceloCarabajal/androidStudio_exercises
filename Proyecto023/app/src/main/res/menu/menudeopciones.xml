@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/agrandarfuente"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/agrandar_fuente"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/reducirfuente"
+        android:icon="@android:drawable/button_onoff_indicator_on"
+        android:title="@string/reducir_fuente"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Color" >
+        <menu
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+            <item
+                android:id="@+id/azul"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="Azul" />
+            <item
+                android:id="@+id/rojo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="Rojo" />
+            <item
+                android:id="@+id/verde"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="Verde" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/salir"
+        android:title="@string/salir" />
+</menu>
