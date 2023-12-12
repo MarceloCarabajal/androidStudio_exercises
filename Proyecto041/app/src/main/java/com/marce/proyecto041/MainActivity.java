@@ -1,5 +1,5 @@
 package com.marce.proyecto041;
-
+//INTENT EXPLICITOS E IMPLICITOS
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
