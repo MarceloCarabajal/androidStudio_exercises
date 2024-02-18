@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto052</string>
+    <string name="valor1">Insira o primeiro valor</string>
+    <string name="valor2">Insira o segundo valor</string>
+    <string name="radiosumar">Adicionar os valores</string>
+    <string name="radiorestar">Subtractos os valores</string>
+    <string name="btnoperar">Subtrair</string>
+    <string name="resultado">Resultado: </string>
+    <string name="programador">Marcelo Carabajal</string>
+    <string name="salir">Fim do programa</string>
+</resources>
