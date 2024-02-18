@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto052</string>
+    <string name="valor1">Ingrese primer valor</string>
+    <string name="valor2">Ingrese segundo valor</string>
+    <string name="radiosumar">Sumar</string>
+    <string name="radiorestar">Restar</string>
+    <string name="btnoperar">Operar</string>
+    <string name="resultado">Resultado: </string>
+    <string name="programador">Marcelo Carabajal</string>
+    <string name="salir">Finalizar programa</string>
+</resources>
