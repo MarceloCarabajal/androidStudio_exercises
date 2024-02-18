@@ -35,4 +35,8 @@ public class MainActivity extends AppCompatActivity {
             tv1.setText(getString(R.string.resultado)+resta);
         }
     }
+
+    public void salir(View v){
+        finish();
+    }
 }

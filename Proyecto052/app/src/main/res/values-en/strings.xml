@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto052</string>
+    <string name="valor1">Enter first value</string>
+    <string name="valor2">Enter second value</string>
+    <string name="radiosumar">Add</string>
+    <string name="radiorestar">Sub</string>
+    <string name="btnoperar">Operate</string>
+    <string name="resultado">Result: </string>
+    <string name="programador">Marcelo Carabajal</string>
+    <string name="salir">Finish program</string>
+</resources>
